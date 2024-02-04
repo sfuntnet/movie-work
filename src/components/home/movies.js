@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, {useEffect} from "react";
 import app from "../../api/app";
 import {Rings} from "react-loader-spinner";
 import {useDispatch, useSelector} from "react-redux";
